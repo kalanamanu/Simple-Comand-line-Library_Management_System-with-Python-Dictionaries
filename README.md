@@ -1,4 +1,4 @@
-# Book Management System
+# Simple-Comand-line-Library_Management_System-with-Python-Dictionaries
 
 This is a simple command-line based Book Management System written in Python. It allows you to display available books, borrow books, return books, and add new books to the inventory.
 
@@ -24,11 +24,11 @@ This is a simple command-line based Book Management System written in Python. It
 
 2. Navigate to the project directory:
     ```bash
-    cd book-management-system
+    cd Simple-Comand-line-Library_Management_System-with-Python-Dictionaries
     ```
 
 ## Usage
 
 Run the script using Python:
 ```bash
-python book_management.py
+demo.py
