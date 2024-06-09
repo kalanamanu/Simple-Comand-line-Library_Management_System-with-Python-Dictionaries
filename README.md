@@ -19,7 +19,7 @@ This is a simple command-line based Book Management System written in Python. It
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/book-management-system.git
+    git@github.com:kalanamanu/Simple-Comand-line-Library_Management_System-with-Python-Dictionaries.git
     ```
 
 2. Navigate to the project directory:
